@@ -1,0 +1,54 @@
+.header {
+    height: 120px;
+    width:auto;
+    display: flex;
+    align-items: center;
+    background-image: url("./background.png");
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .header__logo {
+    width: 100px;
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 0px;
+  }
+  .header__nav {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .header__search {
+    width: 100px;
+    height: 200px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    border-radius: 24px;
+  }
+  .header__text {
+    display: flex;
+    flex:1;
+    align-items: center;
+    position: absolute;
+    height:120px;
+    left:auto;
+    top: 0px;
+  }
+  .header__optionLineOne {
+    font-size: 20px;
+  }
+  
+  .header__optionLineTwo {
+    font-size: 25px;
+    font-weight: 800;
+  }
+  .header__option {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+  }

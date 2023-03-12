@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5183bf44.css",
+    "main.js": "/static/js/main.243cacc1.js",
+    "static/media/Musiclogo.png": "/static/media/Musiclogo.f662be48aaa8a966c592.png",
+    "index.html": "/index.html",
+    "main.5183bf44.css.map": "/static/css/main.5183bf44.css.map",
+    "main.243cacc1.js.map": "/static/js/main.243cacc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5183bf44.css",
+    "static/js/main.243cacc1.js"
+  ]
+}
